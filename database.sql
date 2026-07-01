@@ -1,3 +1,5 @@
+create database nvidia_gpu_market_analysis;
+
 create table gpu_info(
 	gpu_id int primary key,
 	model_name varchar(50),
